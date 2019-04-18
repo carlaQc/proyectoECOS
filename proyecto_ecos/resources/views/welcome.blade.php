@@ -1,3 +1,5 @@
+
+<!--debemos cambiar por ls otr bienvenida-->
 @extends('layouts.app', ['class' => 'bg-default'])
 
 @section('content')
